@@ -1,4 +1,4 @@
-.9.9m@
+
 ```markdown
 # BrightTV Viewership Analytics
 
