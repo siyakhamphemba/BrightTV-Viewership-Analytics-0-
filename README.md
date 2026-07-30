@@ -111,13 +111,7 @@ BrightTV-Viewership-Analytics/
 | 5 | Word Report (11 sections) | ✅ |
 | 5 | GitHub Repository | ✅ |
 
----
 
-## 🚀 Next Steps
-
-- Complete Excel dashboard file
-- Finalise all uploads
-- Submit for review
 
 ---
 
